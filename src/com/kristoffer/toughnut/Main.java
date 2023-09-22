@@ -9,6 +9,8 @@ import java.util.Objects;
 public class Main {
     public static void main(String[] args) {
 
+        /* Coding and Packages, what should be included */
+
         // Instantiate Objects
         DataAddressArray dataAddressArray = new DataAddressArray();
         DoingItRightMethods doingItRightMethods = new DoingItRightMethods();
@@ -32,6 +34,8 @@ public class Main {
 
         // Lektion #3
         System.out.println(benny);
+
+        // Where did my Lecture #4 go?
 
     }
 }
