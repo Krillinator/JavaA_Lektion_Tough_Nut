@@ -35,11 +35,6 @@ public class Main {
         // Lektion #3
         // System.out.println(benny);
 
-        // Lektion #4
-        // FROM BRANCH LEKTION4
 
-
-        // Lektion #4
-        // THIS IS MASTER BRANCH
     }
 }
